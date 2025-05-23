@@ -6,7 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# My Executable
+WFCU*.exe
+WFCU_log.txt
+
 # Distribution / packaging
+ffmpeg/doc/
+ffmpeg/presets/
 .Python
 build/
 develop-eggs/
