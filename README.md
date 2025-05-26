@@ -34,7 +34,7 @@
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="Images/Conversion Example 1.png" width="400" alt="Context Menu Demo">
+  <img src="Resources/Conversion_Example_1.png" width="400" alt="Context Menu Demo">
   <br>
   <i>Right-click to convert files instantly!</i>
 </p>
