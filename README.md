@@ -23,10 +23,9 @@
 
 ## 🚀 Installation
 
-1. **Download** or build `WFCU.exe` and place it in a folder.
-2. **Extract** the provided `ffmpeg` folder (with `bin/ffmpeg.exe`) into the same directory as `WFCU.exe`.
-3. **Run** `Add-Registry-Rules.bat` as administrator to add the context menu options.
-4. **Right-click** any supported file and choose your desired conversion!
+1. **Download** .exe from latest [release](https://github.com/BuiltByLuca/Windows-File-Conversion-Utility/releases) tab
+2. **Run Installer**
+3. **Right-click** any supported file and choose your desired conversion with the WFCU dropdown!
 
 > **Tip:** You can remove the context menu entries at any time by running the provided removal script. (Recommended when uninstalling)
 
