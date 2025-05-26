@@ -72,9 +72,7 @@
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
-
-> **Note:** This utility bundles [FFmpeg](https://ffmpeg.org/), which is licensed under the LGPL/GPL. See the included FFmpeg license for details.
+This project is licensed under the [GNU GPL License](LICENSE).
 
 ---
 
