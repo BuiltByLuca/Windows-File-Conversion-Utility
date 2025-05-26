@@ -60,7 +60,7 @@ try: # Try to catch unexpected errors
     log(f"File name with extension: {file_name_with_export_extension}")
 
     # ===========================================================
-    # Image Conversion
+    # Image Conversioabout:blank#blockedn
     # ===========================================================
     if file_export_type.lower() in (".jpeg", ".jpg", ".png", ".bmp", ".tiff", ".tif", ".ico", ".jfif", ".webp"):
         log("Image file detected")
@@ -68,7 +68,7 @@ try: # Try to catch unexpected errors
         output_path = os.path.join(file_dir, f"{file_name}{file_export_type}")
 
         # Convert to RGB if exporting to a format that doesn't support transparency
-        if file_export_type.lower() in (".jpg", ".jpeg", ".bmp", ".tiff", ".tif", ".ico"):
+        if file_export_type.lower() in (".jpg", ".jpeg", ".bmp", ".tiff", ".tif"):
             img = img.convert("RGB")
             log("Converted to RGB")
             img.save(output_path)
